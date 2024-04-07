@@ -54,7 +54,7 @@ Hello! I'm **Arima**, a passionate software engineering student with a particula
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
   <img width="12" />
@@ -68,7 +68,13 @@ Hello! I'm **Arima**, a passionate software engineering student with a particula
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="?theme=dark" alt="Widget with the current Spotify song"  />
 </div>
 
 ###
