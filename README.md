@@ -3,8 +3,11 @@
 ### 🔒 Keyring of Arima
 
 Hello! I'm **Arima**, a passionate software engineering student with a particular interest in the world of ethical hacking and computer security. My goal is to explore the complexities of cyberspace and contribute to a safer and more robust online environment.
+<div align="center">
 
-<br>
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://arimakey.github.io/)
+[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arima_key/)
+</div>
 
 ###
 
