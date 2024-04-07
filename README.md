@@ -9,6 +9,8 @@ Hello! I'm **Arima**, a passionate software engineering student with a particula
 [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arima_key/)
 </div>
 
+<div align="center">
+
 | **Web Technologies** |
 |:---------------------:|
 | <div align="center"> <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  /> </div> |
@@ -18,3 +20,5 @@ Hello! I'm **Arima**, a passionate software engineering student with a particula
 | <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  /> </div> |
 | **Scripting** |
 | <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  /> </div> 
+
+</div>
