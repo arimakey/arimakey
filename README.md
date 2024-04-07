@@ -1,9 +1,10 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ArimaKey/ArimaKey/main/Images/profile_pic.png" width="123" height="140" alt="Avatar" align="right">
-  <h1>🔒 Keyring of Arima</h1>
-  <p>Hello! I'm Arima, a passionate software engineering student with a particular interest in the world of ethical hacking and computer security. My goal is to explore the complexities of cyberspace and contribute to a safer and more robust online environment.</p>
-</div>
+<img src="https://raw.githubusercontent.com/ArimaKey/ArimaKey/main/Images/profile_pic.png" width="123" height="140" alt="Avatar" align="right" />
 
+### 🔒 Keyring of Arima
+
+Hello! I'm **Arima**, a passionate software engineering student with a particular interest in the world of ethical hacking and computer security. My goal is to explore the complexities of cyberspace and contribute to a safer and more robust online environment.
+
+<br>
 <br>
 
 ###
