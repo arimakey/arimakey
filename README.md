@@ -5,7 +5,6 @@
 Hello! I'm **Arima**, a passionate software engineering student with a particular interest in the world of ethical hacking and computer security. My goal is to explore the complexities of cyberspace and contribute to a safer and more robust online environment.
 
 <br>
-<br>
 
 ###
 
