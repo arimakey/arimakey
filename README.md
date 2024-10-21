@@ -1,6 +1,4 @@
 
----
-
 # 📂 /
 
 Hi! I'm **Arima**, a passionate **Software Engineering Student** and an aspiring **Ethical Hacker**. My goal is to navigate through the complexities of cyberspace while making it a safer and more secure environment. I'm always exploring new challenges in the world of cybersecurity and software development, with a deep focus on security vulnerabilities and privacy issues.
@@ -10,7 +8,6 @@ Hi! I'm **Arima**, a passionate **Software Engineering Student** and an aspiring
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arimakey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="150" alt="Top Languages"  />
 </div>
 
----
 
 ## 🔒 Ethical Hacking & Security Enthusiast
 
