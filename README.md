@@ -21,23 +21,25 @@ I’m actively engaged in **Software Engineering**, focusing on **Ethical Hackin
 
 </div>
 
-```bash
-user@arimazL2w1key > cat skills.txt
 
-            ------------------------------------------
-            |            TECHNOLOGY STACK            |
-            ------------------------------------------
-            |  Web Technologies:                     |
-            |    - HTML5, CSS3, TailwindCSS, JS      |
-            |    - React, Next.js, Laravel           |
-            |                                        |
-            |  Software Development:                 |
-            |    - C++, Java, MySQL                  |
-            |                                        |
-            |  Deployment & Version Control:         |
-            |    - Docker, Git, GitHub, Heroku       |
-            |                                        |
-            |  Scripting:                            |
-            |    - Bash, Python                      |
-            ------------------------------------------
-```
+<pre>
+<p style="text-align: left;">user@arimazL2w1key > cat skills.txt</p>
+<div style="text-align: center;">
+------------------------------------------
+|            TECHNOLOGY STACK            |
+------------------------------------------
+|  Web Technologies:                     |
+|    - HTML5, CSS3, TailwindCSS, JS      |
+|    - React, Next.js, Laravel           |
+|                                        |
+|  Software Development:                 |
+|    - C++, Java, MySQL                  |
+|                                        |
+|  Deployment & Version Control:         |
+|    - Docker, Git, GitHub, Heroku       |
+|                                        |
+|  Scripting:                            |
+|    - Bash, Python                      |
+------------------------------------------
+</pre>
+</div>
