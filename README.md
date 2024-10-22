@@ -22,9 +22,10 @@ I’m actively engaged in **Software Engineering**, focusing on **Ethical Hackin
 </div>
 
 
-<pre>
-<p style="text-align: left;">user@arimazL2w1key > cat skills.txt</p>
-<div style="text-align: center;">
+
+```bash
+user@arimazL2w1key > cat skills.txt
+
 ------------------------------------------
 |            TECHNOLOGY STACK            |
 ------------------------------------------
@@ -41,5 +42,4 @@ I’m actively engaged in **Software Engineering**, focusing on **Ethical Hackin
 |  Scripting:                            |
 |    - Bash, Python                      |
 ------------------------------------------
-</pre>
-</div>
+```
